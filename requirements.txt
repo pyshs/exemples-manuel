@@ -1,0 +1,14 @@
+pathlib
+jupyter
+plotly
+matplotlib
+scipy
+wikitables
+pandas
+xlrd
+mca
+sklearn
+seaborn
+fanalysis
+statsmodels
+patsy
