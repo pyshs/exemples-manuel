@@ -8,7 +8,7 @@ Vous trouverez sur ce dépôt GitHub:
 
 # Tester Python sans installation
 
-Certain exemple du livre sont disponibles grâce à MyBinder.org, une fédération qui a pour but de promouvoir la reproductibilité en recherche. Pour tester les exemples en ligne, cliquez sur le logo ci-dessous et un serveur temporaire va être mis en place pour vous. 
+Certains exemples du livre sont disponibles grâce à MyBinder.org, une fédération qui a pour but de promouvoir la reproductibilité en recherche. Pour tester les exemples en ligne, cliquez sur le logo ci-dessous et un serveur temporaire va être mis en place pour vous. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyshs/exemples-manuel/master)
 
