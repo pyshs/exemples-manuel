@@ -1,6 +1,8 @@
 # Python pour les Science Humaines et Sociales
 
-Vous arrivez ici peut par l'intermédiaire de https://pyshs.fr/ ou directement après avoir acheté ce livre. Vous trouverez sur ce dépôt GitHub: 
+Vous arrivez peut-être ici par l'intermédiaire de https://pyshs.fr/ ou directement après avoir acheté ce livre. 
+
+Vous trouverez sur ce dépôt GitHub: 
   - Des discussions et questions sur les différent chapitres ;
   - Les scripts du manuel pour les exécuter.
 
