@@ -1,3 +1,5 @@
+Ce dépôt n'est encore actif. Il sera opérationnel début décembre pour la sortie du manuel.
+
 # Python pour les Science Humaines et Sociales
 
 Vous arrivez peut-être ici par l'intermédiaire de https://pyshs.fr/ ou directement après avoir acheté ce livre. 
