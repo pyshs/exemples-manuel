@@ -3,7 +3,7 @@
 Vous arrivez peut-être ici par l'intermédiaire de https://pyshs.fr/ ou directement après avoir acheté ce livre. 
 
 Vous trouverez sur ce dépôt GitHub: 
-  - Des discussions et questions sur les différent chapitres ;
+  - Des discussions et questions sur les différents chapitres ;
   - Les scripts du manuel pour les exécuter.
 
 # Tester Python sans installation
