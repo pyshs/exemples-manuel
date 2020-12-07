@@ -1,10 +1,11 @@
-Ce dépôt n'est encore actif. Il sera opérationnel début décembre pour la sortie du manuel.
+Ce dépôt n'est encore actif. Il sera opérationnel début janvier pour la sortie du manuel.
 
 # Python pour les Science Humaines et Sociales
 
 Vous arrivez peut-être ici par l'intermédiaire de https://pyshs.fr/ ou directement après avoir acheté ce livre. 
 
 Vous trouverez sur ce dépôt GitHub: 
+
   - Des discussions et questions sur les différents chapitres ;
   - Les scripts du manuel pour les exécuter.
 
@@ -19,5 +20,9 @@ Lorsque vous fermerez votre onglet, la machine sera détruite après 10 minutes.
 # Discussion
 
 Allez sur l'onglet "issue" ci-dessus et cherchez les discussions liées aux chapitres qui vous intéressent. 
+
 N'hésitez pas à commenter ou ouvrir de nouvelles discussions. Nous ferons de notre mieux pour répondre. N'hésitez pas aussi à proposer des codes pour les partager avec d'autres.
 
+# Ressources 
+
+Vous trouverez des ressources autres que le manuel sur le dépôt : https://github.com/pyshs/ressources-pyshs
