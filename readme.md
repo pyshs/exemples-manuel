@@ -17,7 +17,7 @@ Certains exemples du livre sont disponibles grâce à MyBinder.org, une fédéra
 
 Lorsque vous fermerez votre onglet, la machine sera détruite après 10 minutes. N'hésitez pas à faire des modifications du code et tester différentes approches. Vous ne pouvez rien casser. Si vous appréciez Binder, vous pouvez [Donner a NumFOCUS](https://numfocus.org/donate) pour aider au développement du projet. 
 
-# Discussion
+# Discussion et remontées de problèmes
 
 Allez sur l'onglet "issue" ci-dessus et cherchez les discussions liées aux chapitres qui vous intéressent. 
 
