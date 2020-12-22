@@ -7,7 +7,8 @@ Vous arrivez peut-être ici par l'intermédiaire de https://pyshs.fr/ ou directe
 Vous trouverez sur ce dépôt GitHub: 
 
   - Des discussions et questions sur les différents chapitres ;
-  - Les scripts du manuel pour les exécuter.
+  - Les scripts du manuel pour les exécuter ;
+  - Les erreurs du manuel (il y en a toujours) et les corrections associées dans les *issues*.
 
 # Tester Python sans installation
 
@@ -16,6 +17,8 @@ Certains exemples du livre sont disponibles grâce à MyBinder.org, une fédéra
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyshs/exemples-manuel/master)
 
 Lorsque vous fermerez votre onglet, la machine sera détruite après 10 minutes. N'hésitez pas à faire des modifications du code et tester différentes approches. Vous ne pouvez rien casser. Si vous appréciez Binder, vous pouvez [Donner a NumFOCUS](https://numfocus.org/donate) pour aider au développement du projet. 
+
+Vous pouvez aussi utiliser *https://colab.research.google.com/*
 
 # Discussion et remontées de problèmes
 
