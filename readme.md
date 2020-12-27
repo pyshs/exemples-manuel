@@ -1,6 +1,4 @@
-Ce dépôt n'est encore actif. Il sera opérationnel début janvier pour la sortie du manuel.
-
-# Python pour les Science Humaines et Sociales
+# Python pour les sciences humaines et sociales
 
 Vous arrivez peut-être ici par l'intermédiaire de https://pyshs.fr/ ou directement après avoir acheté ce livre. 
 
@@ -12,15 +10,17 @@ Vous trouverez sur ce dépôt GitHub:
 
 # Tester Python sans installation
 
-Certains exemples du livre sont disponibles grâce à MyBinder.org, une fédération qui a pour but de promouvoir la reproductibilité en recherche. Pour tester les exemples en ligne, cliquez sur le logo ci-dessous et un serveur temporaire va être mis en place pour vous. 
+Le code du livre peut être exécuté avec *MyBinder.org*, une fédération qui a pour but de promouvoir la reproductibilité en recherche. Pour tester les exemples en ligne, cliquez sur le logo ci-dessous et un serveur temporaire va être mis en place pour vous afin d'exécuter le code disponible sur ce dépôt. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyshs/exemples-manuel/master)
 
-Lorsque vous fermerez votre onglet, la machine sera détruite après 10 minutes. N'hésitez pas à faire des modifications du code et tester différentes approches. Vous ne pouvez rien casser. Si vous appréciez Binder, vous pouvez [Donner a NumFOCUS](https://numfocus.org/donate) pour aider au développement du projet. 
+Lorsque vous fermerez votre onglet, la machine sera détruite après 10 minutes. N'hésitez pas à faire des modifications du code et tester différentes approches. Vous ne pouvez rien casser. *Si vous appréciez Binder, vous pouvez [Donner a NumFOCUS](https://numfocus.org/donate) pour aider au développement du projet*. 
 
-Vous pouvez aussi utiliser *https://colab.research.google.com/*
+Vous pouvez aussi utiliser d'autres solutions en ligne, comme le service de Google associé à une adresse *Gmail* sur *https://colab.research.google.com/*
 
 # Discussion et remontées de problèmes
+
+L'idée est de pouvoir nourrir les prochaines versions du manuel de vos retours.
 
 Allez sur l'onglet "issue" ci-dessus et cherchez les discussions liées aux chapitres qui vous intéressent. 
 
